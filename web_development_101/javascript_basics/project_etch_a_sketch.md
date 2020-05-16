@@ -1001,4 +1001,6 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
 * [Brenton393's Solution](https://github.com/Brenton393/etch-a-sketch/) - [View in Browser](https://Brenton393.github.io/etch-a-sketch/)
 * [Marci's Solution](https://github.com/NotAProgrammerdork/Etch-a-Sketch) - [View in Browser](https://notaprogrammerdork.github.io/Etch-a-Sketch/)
 * [castle429's Solution](https://github.com/castle429/etch-a-sketch) - [View in Browser](https://castle429.github.io/etch-a-sketch/)
+ [hazigabriel's Solution](https://github.com/hazigabriel/etch-a-sketch-updated) - [View in Browser](https://hazigabriel.github.io/etch-a-sketch-updated/)
 </details>
+
