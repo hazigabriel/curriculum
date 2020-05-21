@@ -1015,4 +1015,5 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
 * [Bryan L's Solution](https://github.com/bryanluu/TOP_etchnsketch) - [View in Browser](https://bryanluu.github.io/TOP_etchnsketch/)
 * [adilahmad321's Solution](https://github.com/adilahmad321/Etch-a-Sketch) - [View in Browser](https://adilahmad321.github.io/Etch-a-Sketch/)
 * [Tai's Solution](https://github.com/kimtaisuk/etch-a-sketch) - [View in Browser](https://kimtaisuk.github.io/etch-a-sketch/)
+* [hazigabriel's Solution](https://github.com/hazigabriel/etch-a-sketch-updated) - [View in Browser](https://hazigabriel.github.io/etch-a-sketch-updated/)
 </details>
